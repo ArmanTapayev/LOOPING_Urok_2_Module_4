@@ -505,7 +505,7 @@ void main()
 
 					cout << endl;
 
-				cout << "Количество дней без осадков: " << s << endl;
+				    cout << "Количество дней без осадков: " << s << endl;
 
 				cout << endl;
 
