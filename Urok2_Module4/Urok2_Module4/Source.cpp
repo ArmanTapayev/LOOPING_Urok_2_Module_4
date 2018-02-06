@@ -491,6 +491,7 @@ void main()
 				prec = 1 + rand() % 31;
 
 				//cout << prec << "  ";
+
 				cout << endl;
 
 				s = 0;
